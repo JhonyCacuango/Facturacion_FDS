@@ -34,7 +34,7 @@ import javax.swing.JOptionPane;
 
 //import org.jvnet.substance.SubstanceDefaultLookAndFeel;
 
-import sun.security.krb5.internal.rcache.ReplayCache;
+//import sun.security.krb5.internal.rcache.ReplayCache;
 
 
 public class Factura_venta extends JFrame {
